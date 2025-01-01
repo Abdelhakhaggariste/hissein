@@ -36,7 +36,6 @@ const socialMediaLinks = {
   github: "https://github.com/Abdelhakhaggariste",
   linkedin: "https://www.linkedin.com/in/abdel-hakh-hissein-hissein-62b441306/",
   gmail: "hisseinabdelhahk@gmail.com",
-  
   facebook: "https://www.facebook.com/abdelhak.haggar",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -303,8 +302,6 @@ export {
   techStack,
   workExperiences,
   openSource,
- 
- 
   blogSection,
   talkSection,
   podcastSection,
